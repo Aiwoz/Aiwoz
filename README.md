@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille sur [Prexium Airlines](https://prexiumairlines.fr).
 
-- 👯 Je contribue sur [Aide Réseaux](https://discord.gg/reseaux).
+- 👯 Je contribue sur [❄ Squad Legend ❄](https://discord.gg/gZqjCzdevg).
 
 - 📫 Contactez-moi si besoin. (**contact.aiwoz@gmail.com**)
 
