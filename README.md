@@ -7,11 +7,11 @@
 
 - 🔭 Je travaille sur [Prexium Airlines](https://prexiumairlines.fr).
 
-- 👯 Je contribue sur [Dymuno](https://discord.gg/DtT3Hd6eUS).
+- 👯 Je contribue sur [Multivetis](https://discord.gg/ysFVxfdPqT).
 
 - 📫 Contactez-moi si besoin. (**contact.aiwoz@gmail.com**)
 
-- ⚡ Fun fact **Mon meilleur ami est Furiousli.**
+- ⚡ Fun fact **J'adore l'aviation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
