@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille sur [Prexium Airlines](https://prexiumairlines.fr).
 
-- 👯 Je contribue sur [Multivetis](https://discord.gg/ysFVxfdPqT).
+- 👯 Je contribue sur [Dreameria](https://discord.gg/TTe9m3B2BE).
 
 - 📫 Contactez-moi si besoin. (**contact.aiwoz@gmail.com**)
 
