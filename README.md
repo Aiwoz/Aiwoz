@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/aiwoz_off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiwozyt_off" height="30" width="40" /></a>
 <a href="https://instagram.com/aiwoz_off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiwozyt_off" height="30" width="40" /></a>
-<a href="https://discord.gg/aiwoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aiwoz" height="30" width="40" /></a>
+<a href="https://discord.gg/aiwozoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aiwoz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
