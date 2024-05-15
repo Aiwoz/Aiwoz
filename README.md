@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiwoz" alt="aiwoz" /></a> </p>
 
-- 🔭 Je travaille sur [ExObot](http://exobot.fr/).
+- 🔭 Je travaille sur [Prexium](http://prexium.fr/).
 
 - 👨‍💻 Tous mes projets sont disponible ici : [http://aiwoz.fr](http://aiwoz.fr)
 
