@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je m'appelle Amadeo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Je suis développeur, streamer et pilote en simulateur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiwoz&label=Profile%20views&color=ff0000&style=flat" alt="aiwoz" /> </p>
 
