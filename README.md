@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je m'appelle Amadeo. 👋</h1>
 <h3 align="center">Développeur freelance</h3>
 
-- 🔭 Je travaille actuellement sur [Prexi BOT](https://prexibot.fr)
+- 🔭 Je travaille actuellement sur [PrexiBot](https://prexibot.fr)
 
 - 🤝 Voici mon plugin Minecraft [Minecraft Authenticator](https://www.spigotmc.org/resources/authors/aiwoz.858299/)
 
